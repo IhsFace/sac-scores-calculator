@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\bin\Debug\net8.0-windows\SAC Scores Calculator.exe
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\bin\Debug\net8.0-windows\SAC Scores Calculator.deps.json
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\bin\Debug\net8.0-windows\SAC Scores Calculator.runtimeconfig.json
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\bin\Debug\net8.0-windows\SAC Scores Calculator.dll
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\bin\Debug\net8.0-windows\SAC Scores Calculator.pdb
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC_Scores_Calculator.Form1.resources
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.dll
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\refint\SAC Scores Calculator.dll
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.pdb
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\ref\SAC Scores Calculator.dll

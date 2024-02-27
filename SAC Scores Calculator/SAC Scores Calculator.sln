@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SAC Scores Calculator", "SAC Scores Calculator\SAC Scores Calculator.vbproj", "{91E4DAE7-CC25-4868-B1B6-2B7E473E4C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E4DAE7-CC25-4868-B1B6-2B7E473E4C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E4DAE7-CC25-4868-B1B6-2B7E473E4C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E4DAE7-CC25-4868-B1B6-2B7E473E4C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E4DAE7-CC25-4868-B1B6-2B7E473E4C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63BE731F-8856-4C4B-AA42-6F49CFE21E8E}
+	EndGlobalSection
+EndGlobal
