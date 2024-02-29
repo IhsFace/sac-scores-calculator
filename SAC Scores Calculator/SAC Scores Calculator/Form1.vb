@@ -19,8 +19,13 @@ Public Class Form1
         Dim SacScoresFile As StreamWriter = File.AppendText("SacScores.txt")
         Dim strSacScore As String = InputBox("Enter the score to add", "Add score")
 
-        SacScoresFile.WriteLine(strSacScore)
-        MessageBox.Show("The name and score has been added to the text file")
+        If Val(strSacScore) >= 0 AndAlso Val(strSacScore) <= 100 Then
+            SacScoresFile.WriteLine(strSacScore)
+            MessageBox.Show("The name and score has been added to the text file")
+        Else
+            MessageBox.Show("The score must be between 0 and 100.")
+        End If
+
         SacScoresFile.Close()
     End Sub
 End Class

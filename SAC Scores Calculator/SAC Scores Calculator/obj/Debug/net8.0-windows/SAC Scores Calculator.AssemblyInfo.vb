@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SAC Scores Calculator"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99e0755ab57424e33c9afa89bfaee6d25e2628c5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SAC Scores Calculator"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SAC Scores Calculator"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

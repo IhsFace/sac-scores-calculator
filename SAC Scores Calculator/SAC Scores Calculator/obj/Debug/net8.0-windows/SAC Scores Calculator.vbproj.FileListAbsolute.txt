@@ -14,3 +14,4 @@ C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores C
 C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.pdb
 C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.genruntimeconfig.cache
 C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\ref\SAC Scores Calculator.dll
+C:\Users\ihsaa\Projects\sac-scores-calculator\SAC Scores Calculator\SAC Scores Calculator\obj\Debug\net8.0-windows\SAC Scores Calculator.sourcelink.json
